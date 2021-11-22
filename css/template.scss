@@ -1,0 +1,35 @@
+%link_style {
+    border: 1px solid #458ff6;
+      border-radius: 55px;
+      font-weight: bold;
+      font-size: 18px;
+      color: #458FF6;
+      padding: 17px;
+      text-decoration: none;
+      background: #ffffff;
+      min-width: 200px;
+      text-align: center;
+      &:hover {
+        background: #458ff6;
+        color: #ffffff;
+      }
+  }
+  %title_style {
+    font-weight: bold;
+      font-size: 36px;
+      line-height: 56px;
+      color: #000000;
+  }
+  %line_style {
+    background: #000000;
+      border-radius: 5px;
+      border-style: none;
+      width: 56px;
+      height: 2px;
+  }
+  %text_style {
+    font-weight: 300;
+      font-size: 18px;
+      line-height: 30px;
+      color: #7D7987;
+  }
